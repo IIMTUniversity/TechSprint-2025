@@ -250,9 +250,10 @@ Your project will be evaluated by a panel of judges based on innovation, impleme
 
 Need help or have questions?
 
-- 💬 **Community:** Join our Discord/Slack channels (links will be shared soon)
-- 🐦 **Social Media:** Follow us for updates and announcements
-- 📧 **Email:** Contact information will be provided during registration
+- 🌐 **Community Page:** [GDG On Campus: IIMT University](https://gdg.community.dev/gdg-on-campus-iimt-university-meerut-india/)
+- 💼 **LinkedIn:** [GDG On Campus IIMT](https://www.linkedin.com/company/gdg-on-campus-iimt/)
+- 📱 **Instagram:** [@gdg_iimt](https://www.instagram.com/gdg_iimt)
+- 📧 **Email:** gdg@iimtindia.net, prateek_bi@iimtuniversity.com
 
 For event-specific queries, reach out to the GDG On Campus: IIMT, Meerut team.
 
