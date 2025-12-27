@@ -51,7 +51,7 @@ Whether you're a beginner or an experienced developer, TechSprint 2025 welcomes 
 
 ```
 🗓️  Start Date:  December 5, 2025
-🗓️  End Date:    January 20, 2025
+🗓️  End Date:    January 20, 2026
 ⏰  Duration:    ~46 Days
 ```
 
@@ -60,8 +60,8 @@ Whether you're a beginner or an experienced developer, TechSprint 2025 welcomes 
 | Milestone | Date |
 |-----------|------|
 | 🚀 Campaign Opens | December 5, 2025 |
-| 📝 Registration Deadline | January 15, 2025 |
-| 📦 Final Submission Deadline | January 20, 2025 |
+| 📝 Registration Deadline | January 15, 2026 |
+| 📦 Final Submission Deadline | January 20, 2026 |
 | 🏆 Results Announcement | TBA |
 
 > ⚠️ **Important:** Projects must be created **after December 1, 2025** to qualify for submission.
@@ -118,7 +118,7 @@ All participants must submit the following deliverables to qualify:
 - Record your demo video
 
 ### Step 4: Submit
-- Submit all required deliverables before January 20, 2025
+- Submit all required deliverables before January 20, 2026
 - Fill out the submission form [Link TBA]
 - Wait for the evaluation and results
 
