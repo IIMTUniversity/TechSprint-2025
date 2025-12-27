@@ -13,7 +13,7 @@
 
 *An innovation sprint where students and developers leverage Google Technologies & AI Tools to build impactful solutions*
 
-[Get Started](#-how-to-participate) • [Requirements](#-submission-requirements) • [Resources](#-resources) • [FAQ](#-faq)
+[Register Now](https://vision.hack2skill.com/event/gdgoc-25-tech_sprint) • [Submission Guide](https://docs.google.com/document/d/e/2PACX-1vQiu1yPPfvyV7kqRAxhvDFC_r7NAsp5qFenNg7EcEf6m594krFc1380Q3JZyYO9WcJy8BimfeFSs7kA/pub) • [Requirements](#-submission-requirements) • [Resources](#-resources) • [FAQ](#-faq)
 
 </div>
 
@@ -106,7 +106,7 @@ All participants must submit the following deliverables to qualify:
 ## 🚀 How to Participate
 
 ### Step 1: Register
-- Fill out the registration form (link will be shared soon)
+- [Fill out the registration form](https://vision.hack2skill.com/event/gdgoc-25-tech_sprint)
 - Join our community channels for updates
 
 ### Step 2: Ideate & Build
@@ -123,7 +123,7 @@ All participants must submit the following deliverables to qualify:
 
 ### Step 4: Submit
 - Submit all required deliverables before January 20, 2026
-- Fill out the submission form (link will be shared soon)
+- [Follow the submission guide](https://docs.google.com/document/d/e/2PACX-1vQiu1yPPfvyV7kqRAxhvDFC_r7NAsp5qFenNg7EcEf6m594krFc1380Q3JZyYO9WcJy8BimfeFSs7kA/pub) for detailed instructions
 - Wait for the evaluation and results
 
 ---
@@ -310,9 +310,10 @@ All participants are expected to:
 
 <div align="center">
 
-### **Ready to Build the Future with AI?**
+### **Ready to Sprint?**
 
-[![Get Started](https://img.shields.io/badge/Get%20Started-Join%20Now-blue?style=for-the-badge)](#-how-to-participate)
+[![Register Now](https://img.shields.io/badge/Register%20Now-Join%20TechSprint%202025-blue?style=for-the-badge)](https://vision.hack2skill.com/event/gdgoc-25-tech_sprint)
+[![Submission Guide](https://img.shields.io/badge/Submission%20Guide-Read%20Here-green?style=for-the-badge)](https://docs.google.com/document/d/e/2PACX-1vQiu1yPPfvyV7kqRAxhvDFC_r7NAsp5qFenNg7EcEf6m594krFc1380Q3JZyYO9WcJy8BimfeFSs7kA/pub)
 
 **TechSprint 2025** • *Leveraging the Power of AI*
 
