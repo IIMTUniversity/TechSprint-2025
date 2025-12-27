@@ -102,7 +102,7 @@ All participants must submit the following deliverables to qualify:
 ## 🚀 How to Participate
 
 ### Step 1: Register
-- Fill out the registration form [Link TBA]
+- Fill out the registration form (link will be shared soon)
 - Join our community channels for updates
 
 ### Step 2: Ideate & Build
@@ -119,7 +119,7 @@ All participants must submit the following deliverables to qualify:
 
 ### Step 4: Submit
 - Submit all required deliverables before January 20, 2026
-- Fill out the submission form [Link TBA]
+- Fill out the submission form (link will be shared soon)
 - Wait for the evaluation and results
 
 ---
@@ -159,7 +159,6 @@ All participants must submit the following deliverables to qualify:
 - ✅ Individual participants or teams (max 4 members)
 - ✅ Projects must be created after December 1, 2025
 - ✅ Must use at least one Google Technology or AI tool
-- ✅ Participants must attend IIMT Meerut or be part of GDG On Campus community (if applicable - adjust as needed)
 
 ---
 
@@ -247,11 +246,11 @@ Your project will be evaluated by a panel of judges based on innovation, impleme
 
 Need help or have questions?
 
-- 📧 **Email:** [Add contact email]
-- 💬 **Discord/Slack:** [Add community link]
-- 🐦 **Twitter:** [Add Twitter handle]
-- 📱 **Instagram:** [Add Instagram handle]
-- 🌐 **Website:** [Add website link]
+- 💬 **Community:** Join our Discord/Slack channels (links will be shared soon)
+- 🐦 **Social Media:** Follow us for updates and announcements
+- 📧 **Email:** Contact information will be provided during registration
+
+For event-specific queries, reach out to the GDG On Campus: IIMT, Meerut team.
 
 ---
 
@@ -308,7 +307,7 @@ All participants are expected to:
 
 ### **Ready to Build the Future with AI?**
 
-[![Get Started](https://img.shields.io/badge/Get%20Started-Join%20Now-blue?style=for-the-badge)](.)
+[![Get Started](https://img.shields.io/badge/Get%20Started-Join%20Now-blue?style=for-the-badge)](#-how-to-participate)
 
 **TechSprint 2025** • *Leveraging the Power of AI*
 
