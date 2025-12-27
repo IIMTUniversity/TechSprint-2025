@@ -30,6 +30,10 @@
 - [Resources](#-resources)
 - [FAQ](#-faq)
 - [Contact & Support](#-contact--support)
+- [Judging Criteria](#-judging-criteria)
+- [Recognition](#-recognition)
+- [Code of Conduct](#-code-of-conduct)
+- [Acknowledgments](#-acknowledgments)
 
 ---
 
