@@ -158,8 +158,8 @@ You can email our leads or reach out via Instagram.
 
 ## 📧 Contact Support
 Need help? Reach out to our organizing team:
-* **GDG Lead:** gdg@iimtindia.net
-* **Coordinator:** prateek_bi@iimtuniversity.com
+* **GDG official mail:** gdg@iimtindia.net
+* **GDG Lead mail:** prateek_bi@iimtuniversity.com
 
 ## 🌐 Social Handles
 * **LinkedIn:** [GDG On Campus IIMT](https://www.linkedin.com/company/gdg-on-campus-iimt/)
